@@ -22,6 +22,11 @@ hs_err_pid*
 *.ipr
 *.iws
 *.iml
+*.classpath
+.classpath
+.project
+.settings/
+.settings
 
 ## Plugin-specific files:
 
