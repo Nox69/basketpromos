@@ -33,4 +33,16 @@ Basket Class contains the Map of Products which is product details and number of
 
 We would like to make the code production-ready taking into consideration aforementioned business requirements. We would really appreciate if you can solve the BUGS and make the library in running condition. 
 
-**HINT: Test Cases are already written and Valid.**
+**HINTS**
+
+1.Test Cases are already written and Valid.
+
+2.Make use of Methods from Money class:
+
+   `Money moneyA.multipliedBy(moneyB)`
+   
+   `Money moneyA.plus(moneyB)`
+   
+   `boolean moneyA.isEqual(moneyB)`
+   
+   `boolean moneyA.isGreaterThan(moneyB)`
