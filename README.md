@@ -33,7 +33,7 @@ Basket Class contains the Map of Products which is product details and number of
 
 We would like to make the code production-ready taking into consideration aforementioned business requirements. We would really appreciate if you can solve the BUGS and make the library in running condition. 
 
-**HINTS**
+###HINTS
 
 1.Test Cases are already written and Valid.
 
